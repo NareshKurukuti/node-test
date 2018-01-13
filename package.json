@@ -9,6 +9,7 @@
   "author": "Naresh Kurukuti",
   "license": "ISC",
   "devDependencies": {
+    "expect": "^22.0.6",
     "mocha": "^4.1.0"
   },
   "dependencies": {
